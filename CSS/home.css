@@ -1,0 +1,151 @@
+*{
+	font-family: "Merriweather"  !important;
+} 
+body{	
+	background-color: #1a0000 !important;
+}
+.the{
+	font-size: 20px;
+	color: #fff;
+	top: 60%;
+}
+.ibeto{
+	font-size: 30px;
+	font-weight: bold;
+}
+.headertext{
+	position: absolute;
+	padding-top: 70px;
+}
+.header{
+	border-bottom: 2px solid #e68a00;
+	background-color: #000 !important;
+}
+.motto{
+	color: #e68a00;
+	padding-top: 90px;
+	font-size: 12px;
+}
+.image{
+	left: -15px;
+}
+.sidetext{
+	margin-left: -10px !important;
+	background-color:#000 ;
+	background-image: url(../Images/Home/BG-Darkchecker.jpg);
+	background-repeat: repeat-x;
+	padding-left: -100px;
+}
+.sidetext ul li{
+	list-style-type: none;
+	text-decoration: none;
+	font-size: 12px;
+	padding-left: -10px;
+	color: white;
+	font-weight: bold;
+}
+.sidetext ul li a{
+	font-weight: bold;
+	color: #fff;
+	padding-left: -10px;
+	
+}
+.sidetext ul{
+	margin-left: -30px;
+}
+.sidetext ul li a:hover{
+	text-decoration: none;
+	color: #e68a00;
+	font-size: 12px;
+	display: block;
+}
+.icons{
+	padding-left: 10px;
+}
+
+.icons i{
+	color: #fff;
+	font-size: 12px;
+}
+.icons i a{
+	color: #fff;
+	font-size: 12px;
+}
+.icons i a:hover{
+	text-decoration: none;
+	color: #e68a00;
+	font-size: 12px;
+}
+.sub-level{
+	display: none;
+}
+li:hover .sub-level{
+	display: block;
+	border: 1px solid #e68a00;
+	width: 80%;
+	background-color: #1a0000;
+	float: left;
+	position: absolute;
+}
+
+.sub-level li{
+	line-height: 30px;
+}
+.image{	
+	padding: 10px;
+	margin: 10px;
+}
+.image a{
+	color: #fff;
+	font-weight: bold;
+}
+.image a:hover{
+	text-decoration: none;
+	font-size: 15px;
+	color: #e68a00;
+}
+.image a:visited{
+	color: #fff;
+}
+#body-text{	
+	color: #fff;
+	padding-left: 50px !important;
+}
+.background{
+	background-image: url(../Images/Home/IBETO-BG1c.jpg) !important;
+	background-position:  left bottom;
+	background-repeat: repeat-y;
+	line-height: 30px;
+}
+.body2{
+	margin-right: 15px !important;
+
+}
+footer{
+	background-color: #000;
+	min-height: 40px !important;
+
+}
+footer i{
+	color: #e0e0d1;
+	font-size: 10px;
+}
+footer i span{
+	color: #fff;
+	font-size: 15px;
+	font-weight: bold;
+}
+.ceo, .ceo p{
+	color: #e68a00;
+	font-weight: bold;
+	padding-left: 20%;
+}
+a: active{
+	text-decoration: none;
+}
+a: visited{
+	text-decoration: none;
+}
+.tableau{
+	width: 80%;
+}

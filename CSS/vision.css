@@ -1,0 +1,72 @@
+@media screen and (max-width: 1382px){
+	.motto{
+		display: none;
+	}
+	.image{
+		display: none;
+	}
+	li:hover .sub-level{
+		width: 55% !important;
+	}
+	.menu-button{
+		display: block !important;
+	}
+	.sidetext{
+		display: none;
+		position: absolute;
+		z-index: 1 !important;
+		width: 30% !important;
+		height: 100% !important;
+		padding-left: 50px;
+	}
+	.one{
+		width: 0% !important;
+	}
+	.two{
+		width: 100% !important;
+	}
+	.logo{
+		width: 90px;
+	}
+	.headertext{
+		padding-top: 50px;
+	}
+	.palace{
+	    width: 80%;
+    }
+    .tableau{
+    	width: 100% !important;
+    }
+}
+@media screen and (max-width: 562px){
+	.the{
+		font-size: 15px;
+	}
+	.ibeto{
+		font-size: 25px;
+	}
+	.logo{
+		width: 70px;
+	}
+	.headertext{
+		padding-top: 30px;
+	}
+	.palace{
+	    width: 100%;
+    }
+    
+    li:hover .sub-level{
+		width: 65% !important;
+	}
+	.imageone{
+		width: 90% !important;
+		padding-left: 30px !important;
+	}
+	.ibetoone{
+		padding-left: 30px !important;
+	}
+	.sidetext{
+		width: 70% !important;
+	}
+}
+

@@ -1,0 +1,68 @@
+.bold h4{
+	font-weight: bold;
+	color: #fff;
+}
+.bold p{
+	color: #fff;
+
+}
+.border{
+	border-top: #e68a00;
+}
+.size p{
+	font-size: 12px;
+}
+.size p a{
+	text-decoration: none;
+	color: #e68a00;
+}
+.size p a:hover{
+	font-size: 13px;
+}
+.bold h5{
+	color: #fff;
+	font-weight: bold;
+}
+.bold h6{
+	color: #fff;
+	font-weight: bold;
+}
+.size ul li{
+	color: #fff;
+	font-size: 12px;
+}
+textarea{
+	border-radius: 6px;
+	
+}
+.button{
+	padding-left: 170px !important;
+	padding-right: 170px !important;
+	background-color: #e68a00 !important;
+	border-radius: 10px !important;
+}
+label{
+	color: #800000;
+}
+form h6{
+	font-size: 40px;
+	font-weight: bold;
+	color: #e68a00;
+}
+textarea:hover{
+	background-color: #fff;
+}
+li:hover .sub-level{
+	width: 15% !important;
+}
+.form{
+	border-radius: 40px;
+}
+.menu-button{
+	background-color: #e68a00 !important;
+	display: none !important;
+}
+.sidetext{
+	display: block;
+}
+

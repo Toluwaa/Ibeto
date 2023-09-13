@@ -1,0 +1,14 @@
+@media screen and (max-width: 1382px){
+	.motto{
+		display: none;
+	}
+	.image{
+		display: none;
+	}
+	.menu:hover .sidetext{
+		display: block;
+	}
+	.menu-button{
+		display: block;
+	}
+}
